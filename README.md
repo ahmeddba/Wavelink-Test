@@ -2,8 +2,9 @@
 
 ## Overview
 
-This project includes a **Flask backend** and a **React Native frontend**.
+This project includes a **Flask backend** and a **React Native frontend** .
 ---
+## Clone the repo and switch to master branch in VScode.
 
 ## Folder Structure
 
