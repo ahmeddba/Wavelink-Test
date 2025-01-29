@@ -7,8 +7,8 @@ This project includes a **Flask backend** and a **React Native frontend**.
 
 ## Folder Structure
 
-- **/Tasks**: The Flask backend that serves API endpoints.
-- **/product**: The React Native app that consumes the Flask API.
+- **/Tasks**: The Flask app .
+- **/product**: The React Native app .
 
 ---
 
@@ -61,7 +61,7 @@ This project includes a **Flask backend** and a **React Native frontend**.
 
 ### Additional Notes
 
-- **Docker**: Make sure you have Docker and Docker Compose installed on your machine.
+- **Docker**: Make sure you have Docker and Docker Compose installed on your machine and running.
 
 ## Running the React Native Project
 
